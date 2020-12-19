@@ -1,0 +1,2506 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="3",Первый FHD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2402/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый HD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/204/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый канал
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/127/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый канал (+2)
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/714/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6021/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6037/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал +8
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6050/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия FHD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2409/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия HD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/205/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия 1
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/504/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия-1 +2
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6011/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия-1 +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6022/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия-1 +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6038/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия-1 +8
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6051/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ HD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/213/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/501/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ (+2)
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/713/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6024/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6039/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ +8
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6053/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВЦ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/520/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВЦ (+2)
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/716/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВЦ +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6027/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВЦ +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6041/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВЦ +8
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6056/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятый канал
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/112/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятый Канал (+2)
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/746/index.m3u8
+#EXTINF:0 tvg-rec="0",5 канал +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6025/index.m3u8
+#EXTINF:0 tvg-rec="0",5 канал +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6040/index.m3u8
+#EXTINF:0 tvg-rec="0",5 канал +8
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6054/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ FHD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2417/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ HD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/237/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/502/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ (+2)
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/717/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6035/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6049/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/506/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +2
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6015/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6029/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6043/index.m3u8
+#EXTINF:0 tvg-rec="3",Рен ТВ HD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2024/index.m3u8
+#EXTINF:0 tvg-rec="3",РЕН ТВ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/128/index.m3u8
+#EXTINF:0 tvg-rec="3",РЕН ТВ (+2)
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/747/index.m3u8
+#EXTINF:0 tvg-rec="0",Рен ТВ +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6028/index.m3u8
+#EXTINF:0 tvg-rec="0",Рен ТВ +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6042/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир HD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/235/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/113/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир +2
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6019/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6034/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6048/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир Premium
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2105/index.m3u8
+#EXTINF:0 tvg-rec="3",ОТР
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/705/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР +2
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6014/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6026/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР +8
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6055/index.m3u8
+#EXTINF:0 tvg-rec="3",Телеканал Звезда
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/544/index.m3u8
+#EXTINF:0 tvg-rec="3",Звезда (+2)
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/739/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6033/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6047/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС Love
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/103/index.m3u8
+#EXTINF:0 tvg-rec="3",Че
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/513/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ3 HD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5033/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ3
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/508/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ3 +2
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6017/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ3 +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6031/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ3 +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6045/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятница! HD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5031/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятница!
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/503/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница +2
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6018/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6032/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6046/index.m3u8
+#EXTINF:0 tvg-rec="3",RTVi
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2086/index.m3u8
+#EXTINF:0 tvg-rec="3",Супер
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/826/index.m3u8
+#EXTINF:0 tvg-rec="3",Домашний
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/514/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +2
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6016/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6030/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +6
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6044/index.m3u8
+#EXTINF:0 tvg-rec="0",Погляд HD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1057/index.m3u8
+#EXTINF:0 tvg-rec="0",Настоящее время
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/986/index.m3u8
+#EXTINF:0 tvg-rec="3",Ностальгия
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/102/index.m3u8
+#EXTINF:0 tvg-rec="3",Ю ТВ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/534/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ4
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/104/index.m3u8
+#EXTINF:0 tvg-rec="3",КВН ТВ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/546/index.m3u8
+#EXTINF:0 tvg-rec="3",Сарафан
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/748/index.m3u8
+#EXTINF:0 tvg-rec="3",Точка ТВ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2053/index.m3u8
+#EXTINF:0 tvg-rec="3",360° HD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2065/index.m3u8
+#EXTINF:0 tvg-rec="3",360°
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/825/index.m3u8
+#EXTINF:0 tvg-rec="0",СПАС
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/983/index.m3u8
+#EXTINF:0 tvg-rec="3",Союз
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2016/index.m3u8
+#EXTINF:0 tvg-rec="3",Здоровое ТВ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2022/index.m3u8
+#EXTINF:0 tvg-rec="3",Психология 21
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2025/index.m3u8
+#EXTINF:0 tvg-rec="3",Успех
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2041/index.m3u8
+#EXTINF:0 tvg-rec="3",Кто есть кто
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2042/index.m3u8
+#EXTINF:0 tvg-rec="3",Открытый мир
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2078/index.m3u8
+#EXTINF:0 tvg-rec="3",Загородный
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2099/index.m3u8
+#EXTINF:0 tvg-rec="3",Три ангела
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2116/index.m3u8
+#EXTINF:0 tvg-rec="3",РЖД ТВ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2120/index.m3u8
+#EXTINF:0 tvg-rec="3",БСТ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2108/index.m3u8
+#EXTINF:0 tvg-rec="3",Красная линия
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2147/index.m3u8
+#EXTINF:0 tvg-rec="3",ЛДПР ТВ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2110/index.m3u8
+#EXTINF:0 tvg-rec="3",Хузур ТВ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2150/index.m3u8
+#EXTINF:0 tvg-rec="0",Life TV
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/971/index.m3u8
+#EXTINF:0 tvg-rec="3",Дождь
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2030/index.m3u8
+#EXTINF:0 tvg-rec="0",ТБН
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/974/index.m3u8
+#EXTINF:0 tvg-rec="0",CNL
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/955/index.m3u8
+#EXTINF:0 tvg-rec="3",Вместе-РФ
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2073/index.m3u8
+#EXTINF:0 tvg-rec="3",Про Бизнес
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5043/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия-Культура
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/505/index.m3u8
+#EXTINF:0 tvg-rec="3",Е
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5048/index.m3u8
+#EXTINF:0 tvg-rec="3",Gametoon HD
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5049/index.m3u8
+#EXTINF:0 tvg-rec="0",Рен ТВ HD orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9002/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ HD orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9028/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia Today Doc HD orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9031/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир HD orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9032/index.m3u8
+#EXTINF:0 tvg-rec="0",Телеканал 360 HD orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9036/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВЦ orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9095/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятый канал orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9096/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Premium orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9097/index.m3u8
+#EXTINF:0 tvg-rec="0",Телеканал Звезда orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9098/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС Love orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9099/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9100/index.m3u8
+#EXTINF:0 tvg-rec="0",Че orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9101/index.m3u8
+#EXTINF:0 tvg-rec="0",RTVi orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9102/index.m3u8
+#EXTINF:0 tvg-rec="0",Супер orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9103/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9104/index.m3u8
+#EXTINF:0 tvg-rec="0",Настоящее время orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9105/index.m3u8
+#EXTINF:0 tvg-rec="0",Ностальгия orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9106/index.m3u8
+#EXTINF:0 tvg-rec="0",Ю ТВ orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9107/index.m3u8
+#EXTINF:0 tvg-rec="0",КВН ТВ orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9108/index.m3u8
+#EXTINF:0 tvg-rec="0",Сарафан orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9109/index.m3u8
+#EXTINF:0 tvg-rec="0",Точка ТВ orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9110/index.m3u8
+#EXTINF:0 tvg-rec="0",СПАС orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9111/index.m3u8
+#EXTINF:0 tvg-rec="0",Союз orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9112/index.m3u8
+#EXTINF:0 tvg-rec="0",Здоровое ТВ orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9113/index.m3u8
+#EXTINF:0 tvg-rec="0",Психология 21 orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9114/index.m3u8
+#EXTINF:0 tvg-rec="0",Успех orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9115/index.m3u8
+#EXTINF:0 tvg-rec="0",Кто есть кто orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9116/index.m3u8
+#EXTINF:0 tvg-rec="0",Открытый мир orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9117/index.m3u8
+#EXTINF:0 tvg-rec="0",РЖД ТВ orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9118/index.m3u8
+#EXTINF:0 tvg-rec="0",Красная линия orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9119/index.m3u8
+#EXTINF:0 tvg-rec="0",ЛДПР ТВ orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9120/index.m3u8
+#EXTINF:0 tvg-rec="0",Хузур ТВ orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9121/index.m3u8
+#EXTINF:0 tvg-rec="0",Дождь orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9122/index.m3u8
+#EXTINF:0 tvg-rec="0",ТБН orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9123/index.m3u8
+#EXTINF:0 tvg-rec="0",Вместе-РФ orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9124/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9201/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9202/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9203/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9204/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН ТВ orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9205/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ3 orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9206/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница! orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9207/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ4 orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9208/index.m3u8
+#EXTINF:0 tvg-rec="0",360° orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9209/index.m3u8
+#EXTINF:0 tvg-rec="0",Три ангела orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9210/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9211/index.m3u8
+#EXTINF:0 tvg-rec="0",Загородный orig
+#EXTGRP:Общие
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9212/index.m3u8
+#EXTINF:0 tvg-rec="0",Инфоканал
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/407/index.m3u8
+#EXTINF:0 tvg-rec="3",РБК FHD
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2404/index.m3u8
+#EXTINF:0 tvg-rec="3",РБК-ТВ
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/106/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия-24
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/507/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия-24 +2
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6013/index.m3u8
+#EXTINF:0 tvg-rec="3",Москва 24
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/523/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир 24 HD
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2107/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир 24
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/712/index.m3u8
+#EXTINF:0 tvg-rec="3",Euronews Россия
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/828/index.m3u8
+#EXTINF:0 tvg-rec="3",CGTN русский
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/831/index.m3u8
+#EXTINF:0 tvg-rec="3",Известия
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2008/index.m3u8
+#EXTINF:0 tvg-rec="3",Центральное телевидение
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2064/index.m3u8
+#EXTINF:0 tvg-rec="3",NHK World TV
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/729/index.m3u8
+#EXTINF:0 tvg-rec="3",CGTN
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/830/index.m3u8
+#EXTINF:0 tvg-rec="0",Дождь HD
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6308/index.m3u8
+#EXTINF:0 tvg-rec="0",Дождь HD orig
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9072/index.m3u8
+#EXTINF:0 tvg-rec="0",РБК-ТВ orig
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9213/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир 24 HD orig
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9214/index.m3u8
+#EXTINF:0 tvg-rec="0",Euronews Россия orig
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9215/index.m3u8
+#EXTINF:0 tvg-rec="0",Известия orig
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9216/index.m3u8
+#EXTINF:0 tvg-rec="0",CGTN orig
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9217/index.m3u8
+#EXTINF:0 tvg-rec="0",Москва 24 orig
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9218/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир 24 orig
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9219/index.m3u8
+#EXTINF:0 tvg-rec="0",RT Doc orig
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9220/index.m3u8
+#EXTINF:0 tvg-rec="0",NHK World TV orig
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9221/index.m3u8
+#EXTINF:0 tvg-rec="0",Центральное телевидение orig
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9222/index.m3u8
+#EXTINF:0 tvg-rec="0",CGTN Русский orig
+#EXTGRP:Новостные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9223/index.m3u8
+#EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/4000/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино UHD 4K
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5004/index.m3u8
+#EXTINF:0 tvg-rec="3",Сериал UHD 4K
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5005/index.m3u8
+#EXTINF:0 tvg-rec="3",Страшное HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2567/index.m3u8
+#EXTINF:0 tvg-rec="3",Остросюжетное HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/904/index.m3u8
+#EXTINF:0 tvg-rec="3",Премиальное FHD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2410/index.m3u8
+#EXTINF:0 tvg-rec="3",Дом Кино Премиум HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/911/index.m3u8
+#EXTINF:0 tvg-rec="3",Дом кино Премиум HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5082/index.m3u8
+#EXTINF:0 tvg-rec="3",Про Любовь HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2430/index.m3u8
+#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2434/index.m3u8
+#EXTINF:0 tvg-rec="3",Блокбастер HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2436/index.m3u8
+#EXTINF:0 tvg-rec="3",Хит HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2438/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинопоказ HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2439/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше Мужское HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2440/index.m3u8
+#EXTINF:0 tvg-rec="3",Камеди HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2441/index.m3u8
+#EXTINF:0 tvg-rec="3",VIP Serial HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2443/index.m3u8
+#EXTINF:0 tvg-rec="0",Шокирующее
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/913/index.m3u8
+#EXTINF:0 tvg-rec="3",Романтичное HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5053/index.m3u8
+#EXTINF:0 tvg-rec="3",Комедийное HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/912/index.m3u8
+#EXTINF:0 tvg-rec="3",Наш Кинороман HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/914/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше крутое HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/915/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше любимое HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2106/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОПРЕМЬЕРА HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/224/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноужас HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2056/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский роман HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2076/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский иллюзион HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2114/index.m3u8
+#EXTINF:0 tvg-rec="3",Дорама HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2131/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНО ТВ HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2097/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Premium HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/229/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/219/index.m3u8
+#EXTINF:0 tvg-rec="3",Hollywood HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/209/index.m3u8
+#EXTINF:0 tvg-rec="3",Bollywood HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/239/index.m3u8
+#EXTINF:0 tvg-rec="3",VIP Premiere
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/202/index.m3u8
+#EXTINF:0 tvg-rec="3",VIP Premiere orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5079/index.m3u8
+#EXTINF:0 tvg-rec="3",VIP Comedy
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/200/index.m3u8
+#EXTINF:0 tvg-rec="3",VIP Comedy orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5080/index.m3u8
+#EXTINF:0 tvg-rec="3",VIP Megahit
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/201/index.m3u8
+#EXTINF:0 tvg-rec="3",VIP Megahit orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5081/index.m3u8
+#EXTINF:0 tvg-rec="0",Epic Drama
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1048/index.m3u8
+#EXTINF:0 tvg-rec="3",День Победы HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5054/index.m3u8
+#EXTINF:0 tvg-rec="3",Победа HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5052/index.m3u8
+#EXTINF:0 tvg-rec="3",Победа
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2003/index.m3u8
+#EXTINF:0 tvg-rec="3",Paramount Channel HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5063/index.m3u8
+#EXTINF:0 tvg-rec="3",A2 HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2046/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000 Русское кино
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/101/index.m3u8
+#EXTINF:0 tvg-rec="3",Sony Sci-Fi
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/110/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОМИКС
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/509/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОСЕМЬЯ
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/125/index.m3u8
+#EXTINF:0 tvg-rec="3",РОДНОЕ КИНО
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/126/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000 Action
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/131/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинохит
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/516/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia 2
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/510/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше новое кино
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/517/index.m3u8
+#EXTINF:0 tvg-rec="3",TV XXI
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/525/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОКОМЕДИЯ
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/145/index.m3u8
+#EXTINF:0 tvg-rec="3",ИНДИЙСКОЕ КИНО
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/146/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОСЕРИЯ
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/148/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский Иллюзион
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/547/index.m3u8
+#EXTINF:0 tvg-rec="3",Еврокино
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/549/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox Russia
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/550/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox Life
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/553/index.m3u8
+#EXTINF:0 tvg-rec="3",Дом Кино
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/154/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia 1
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/554/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Premium HD (SD)
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/555/index.m3u8
+#EXTINF:0 tvg-rec="3",AMEDIA HIT
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/556/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/132/index.m3u8
+#EXTINF:0 tvg-rec="3",МУЖСКОЕ КИНО
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/164/index.m3u8
+#EXTINF:0 tvg-rec="3",Hollywood
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/557/index.m3u8
+#EXTINF:0 tvg-rec="3",Sony Entertainment Television
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/559/index.m3u8
+#EXTINF:0 tvg-rec="3",2x2
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/702/index.m3u8
+#EXTINF:0 tvg-rec="3",Sony Turbo
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/708/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский бестселлер
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/905/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский роман
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/906/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский детектив
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/907/index.m3u8
+#EXTINF:0 tvg-rec="3",Любимое Кино
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/722/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОСВИДАНИЕ
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/728/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНО ТВ
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/732/index.m3u8
+#EXTINF:0 tvg-rec="3",Русская Комедия
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/733/index.m3u8
+#EXTINF:0 tvg-rec="3",FAN
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/734/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ‑ХИТ
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/741/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ Сериал
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/744/index.m3u8
+#EXTINF:0 tvg-rec="3",НСТ
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/726/index.m3u8
+#EXTINF:0 tvg-rec="0",ZEE TV
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1001/index.m3u8
+#EXTINF:0 tvg-rec="0",Filmbox Arthouse
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1071/index.m3u8
+#EXTINF:0 tvg-rec="0",Дорама
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1066/index.m3u8
+#EXTINF:0 tvg-rec="0",TV1000 World Kino
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1065/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир Сериала
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/856/index.m3u8
+#EXTINF:0 tvg-rec="3",Ретро
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2018/index.m3u8
+#EXTINF:0 tvg-rec="3",Иллюзион +
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2038/index.m3u8
+#EXTINF:0 tvg-rec="3",Феникс плюс Кино
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2039/index.m3u8
+#EXTINF:0 tvg-rec="3",Paramount Channel
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2055/index.m3u8
+#EXTINF:0 tvg-rec="3",Sony Channel HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2062/index.m3u8
+#EXTINF:0 tvg-rec="3",Киносат
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2121/index.m3u8
+#EXTINF:0 tvg-rec="3",Cinéma
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5051/index.m3u8
+#EXTINF:0 tvg-rec="3",Paramount Comedy Russia
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/157/index.m3u8
+#EXTINF:0 tvg-rec="0",Amedia Hit HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6010/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 1
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2568/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 2
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2569/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 3
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2570/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 4
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2571/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 5
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2572/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 6
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2573/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 7
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2574/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 8
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2575/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 9
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2576/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 10
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2577/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 11
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2578/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 12
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2579/index.m3u8
+#EXTINF:0 tvg-rec="0",Шокирующее HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6299/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносемья HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6382/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносвидание HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6383/index.m3u8
+#EXTINF:0 tvg-rec="0",TV 1000 Action HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6386/index.m3u8
+#EXTINF:0 tvg-rec="0",TV 1000 HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6387/index.m3u8
+#EXTINF:0 tvg-rec="0",TV 1000 Русское кино HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6388/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Life HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6389/index.m3u8
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6392/index.m3u8
+#EXTINF:0 tvg-rec="0",Trash HD
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6396/index.m3u8
+#EXTINF:0 tvg-rec="0",Шокирующее HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9004/index.m3u8
+#EXTINF:0 tvg-rec="0",Комедийное HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9005/index.m3u8
+#EXTINF:0 tvg-rec="0",Hollywood HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9017/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9018/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинопремьера HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9020/index.m3u8
+#EXTINF:0 tvg-rec="0",Amedia premium HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9022/index.m3u8
+#EXTINF:0 tvg-rec="0",A2 HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9029/index.m3u8
+#EXTINF:0 tvg-rec="0",Киноужас HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9033/index.m3u8
+#EXTINF:0 tvg-rec="0",Sony Channel HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9035/index.m3u8
+#EXTINF:0 tvg-rec="0",Русский роман HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9041/index.m3u8
+#EXTINF:0 tvg-rec="0",Остросюжетное HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9044/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш кинороман HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9045/index.m3u8
+#EXTINF:0 tvg-rec="0",Наше HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9046/index.m3u8
+#EXTINF:0 tvg-rec="0",Страшное HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9047/index.m3u8
+#EXTINF:0 tvg-rec="0",Кино ТВ HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9051/index.m3u8
+#EXTINF:0 tvg-rec="0",Paramount Channel HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9053/index.m3u8
+#EXTINF:0 tvg-rec="0",TV1000 Action HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9057/index.m3u8
+#EXTINF:0 tvg-rec="0",TV1000 HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9058/index.m3u8
+#EXTINF:0 tvg-rec="0",TV1000 Русское HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9059/index.m3u8
+#EXTINF:0 tvg-rec="0",Наше любимое HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9062/index.m3u8
+#EXTINF:0 tvg-rec="0",Amedia 1 HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9069/index.m3u8
+#EXTINF:0 tvg-rec="0",Amedia Hit HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9070/index.m3u8
+#EXTINF:0 tvg-rec="0",Еврокино HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9078/index.m3u8
+#EXTINF:0 tvg-rec="0",Иллюзион+ HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9079/index.m3u8
+#EXTINF:0 tvg-rec="0",Русский иллюзион HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9080/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Кинопоказ HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9086/index.m3u8
+#EXTINF:0 tvg-rec="0",Блокбастер HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9087/index.m3u8
+#EXTINF:0 tvg-rec="0",Наше Мужское HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9088/index.m3u8
+#EXTINF:0 tvg-rec="0",Про Любовь HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9089/index.m3u8
+#EXTINF:0 tvg-rec="0",Хит HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9090/index.m3u8
+#EXTINF:0 tvg-rec="0",Камеди HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9091/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинопоказ HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9092/index.m3u8
+#EXTINF:0 tvg-rec="0",Sony Sci-Fi orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9125/index.m3u8
+#EXTINF:0 tvg-rec="0",КИНОМИКС orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9126/index.m3u8
+#EXTINF:0 tvg-rec="0",РОДНОЕ КИНО orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9127/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинохит orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9128/index.m3u8
+#EXTINF:0 tvg-rec="0",Amedia 2 orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9129/index.m3u8
+#EXTINF:0 tvg-rec="0",TV XXI orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9130/index.m3u8
+#EXTINF:0 tvg-rec="0",ИНДИЙСКОЕ КИНО orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9131/index.m3u8
+#EXTINF:0 tvg-rec="0",КИНОСЕРИЯ orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9132/index.m3u8
+#EXTINF:0 tvg-rec="0",Русский Иллюзион orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9133/index.m3u8
+#EXTINF:0 tvg-rec="0",Еврокино orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9134/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Russia orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9135/index.m3u8
+#EXTINF:0 tvg-rec="0",Дом Кино orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9136/index.m3u8
+#EXTINF:0 tvg-rec="0",Amedia 1 orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9137/index.m3u8
+#EXTINF:0 tvg-rec="0",МУЖСКОЕ КИНО orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9138/index.m3u8
+#EXTINF:0 tvg-rec="0",2x2 orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9139/index.m3u8
+#EXTINF:0 tvg-rec="0",Sony Turbo orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9140/index.m3u8
+#EXTINF:0 tvg-rec="0",Русский бестселлер orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9141/index.m3u8
+#EXTINF:0 tvg-rec="0",Русский детектив orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9142/index.m3u8
+#EXTINF:0 tvg-rec="0",Любимое Кино orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9143/index.m3u8
+#EXTINF:0 tvg-rec="0",Русская Комедия orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9144/index.m3u8
+#EXTINF:0 tvg-rec="0",FAN orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9145/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ-ХИТ orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9146/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ Сериал orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9147/index.m3u8
+#EXTINF:0 tvg-rec="0",НСТ orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9148/index.m3u8
+#EXTINF:0 tvg-rec="0",ZEE TV orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9149/index.m3u8
+#EXTINF:0 tvg-rec="0",Filmbox Arthouse orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9150/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Сериала orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9151/index.m3u8
+#EXTINF:0 tvg-rec="0",Ретро orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9152/index.m3u8
+#EXTINF:0 tvg-rec="0",Феникс плюс Кино orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9153/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносат orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9154/index.m3u8
+#EXTINF:0 tvg-rec="0",Paramount Comedy Russia orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9155/index.m3u8
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9156/index.m3u8
+#EXTINF:0 tvg-rec="0",Дорама HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9224/index.m3u8
+#EXTINF:0 tvg-rec="0",Bollywood HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9225/index.m3u8
+#EXTINF:0 tvg-rec="0",Победа orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9226/index.m3u8
+#EXTINF:0 tvg-rec="0",TV 1000 Русское кино orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9227/index.m3u8
+#EXTINF:0 tvg-rec="0",КИНОСЕМЬЯ orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9228/index.m3u8
+#EXTINF:0 tvg-rec="0",TV 1000 Action orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9229/index.m3u8
+#EXTINF:0 tvg-rec="0",Наше новое кино orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9230/index.m3u8
+#EXTINF:0 tvg-rec="0",КИНОКОМЕДИЯ orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9231/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Life orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9232/index.m3u8
+#EXTINF:0 tvg-rec="0",Amedia Premium HD (SD) orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9233/index.m3u8
+#EXTINF:0 tvg-rec="0",AMEDIA HIT orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9234/index.m3u8
+#EXTINF:0 tvg-rec="0",TV 1000 orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9235/index.m3u8
+#EXTINF:0 tvg-rec="0",Hollywood orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9236/index.m3u8
+#EXTINF:0 tvg-rec="0",Sony Entertainment Television orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9237/index.m3u8
+#EXTINF:0 tvg-rec="0",КИНОСВИДАНИЕ orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9238/index.m3u8
+#EXTINF:0 tvg-rec="0",Дорама orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9239/index.m3u8
+#EXTINF:0 tvg-rec="0",Русский роман orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9240/index.m3u8
+#EXTINF:0 tvg-rec="0",Иллюзион+ orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9241/index.m3u8
+#EXTINF:0 tvg-rec="0",Paramount Channel orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9242/index.m3u8
+#EXTINF:0 tvg-rec="0",Теленовелла orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9243/index.m3u8
+#EXTINF:0 tvg-rec="0",Кино ТВ orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9244/index.m3u8
+#EXTINF:0 tvg-rec="0",VIP Serial HD orig
+#EXTGRP:Кино
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9245/index.m3u8
+#EXTINF:0 tvg-rec="0",Super Tennis HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6079/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Премьер FHD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2414/index.m3u8
+#EXTINF:0 tvg-rec="3",МАТЧ ПРЕМЬЕР HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/220/index.m3u8
+#EXTINF:0 tvg-rec="3",МАТЧ ПРЕМЬЕР
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/531/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! FHD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2413/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/212/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/535/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч +2
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6012/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч +4
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6023/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч +8
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6052/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2407/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/222/index.m3u8
+#EXTINF:0 tvg-rec="3",МАТЧ! Футбол 1 HD 50 orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5072/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/124/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2420/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/211/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/530/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2408/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/206/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5071/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/522/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра FHD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2406/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/225/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/529/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Арена HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/207/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Арена
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/528/index.m3u8
+#EXTINF:0 tvg-rec="3",МАТЧ! СТРАНА
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/107/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Планета
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/123/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Боец
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/150/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 4K
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/4004/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/228/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5075/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/141/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 North-East HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/234/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 North-East HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5076/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport Gold HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2002/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport Gold HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5066/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/271/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5069/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 2
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/270/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 2 orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5070/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2399/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports Ukraine HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/272/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports Ukraine HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5068/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Sport HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2007/index.m3u8
+#EXTINF:0 tvg-rec="3",VIASAT Sport HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5065/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Fotboll HD SK orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5078/index.m3u8
+#EXTINF:0 tvg-rec="3",UFC HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5067/index.m3u8
+#EXTINF:0 tvg-rec="3",UFC ТВ
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2000/index.m3u8
+#EXTINF:0 tvg-rec="0",XSPORT HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/996/index.m3u8
+#EXTINF:0 tvg-rec="3",Xsport HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5077/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский Экстрим UHD 4K
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5003/index.m3u8
+#EXTINF:0 tvg-rec="3",Russian Extreme HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2077/index.m3u8
+#EXTINF:0 tvg-rec="3",Конный Мир HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/214/index.m3u8
+#EXTINF:0 tvg-rec="3",Телеканал КХЛ HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/215/index.m3u8
+#EXTINF:0 tvg-rec="3",КХЛ FHD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2403/index.m3u8
+#EXTINF:0 tvg-rec="3",KHL
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/519/index.m3u8
+#EXTINF:0 tvg-rec="0",FAST&FUN BOX HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1018/index.m3u8
+#EXTINF:0 tvg-rec="3",Моторспорт ТВ FHD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2405/index.m3u8
+#EXTINF:0 tvg-rec="3",Моторспорт ТВ HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2146/index.m3u8
+#EXTINF:0 tvg-rec="3",Моторспорт ТВ
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2145/index.m3u8
+#EXTINF:0 tvg-rec="3",Extreme Sports
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/144/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол 1
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1109/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 1 HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5073/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол 2
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1110/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 2 HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5074/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 3 HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/290/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 3 HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5083/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Sport
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/160/index.m3u8
+#EXTINF:0 tvg-rec="3",Fuel TV HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2396/index.m3u8
+#EXTINF:0 tvg-rec="3",M-1 Global TV
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/843/index.m3u8
+#EXTINF:0 tvg-rec="3",Бокс ТВ
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/870/index.m3u8
+#EXTINF:0 tvg-rec="3",СТАРТ
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2154/index.m3u8
+#EXTINF:0 tvg-rec="3",Телеканал Футбол
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5050/index.m3u8
+#EXTINF:0 tvg-rec="3",Драйв
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2021/index.m3u8
+#EXTINF:0 tvg-rec="3",ЖИВИ!
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/738/index.m3u8
+#EXTINF:0 tvg-rec="3",Е HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5035/index.m3u8
+#EXTINF:0 tvg-rec="0",Старт HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6384/index.m3u8
+#EXTINF:0 tvg-rec="0",Golf TV HD
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6393/index.m3u8
+#EXTINF:0 tvg-rec="0",UFC FIGHT PASS
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6554/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч Арена HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9010/index.m3u8
+#EXTINF:0 tvg-rec="0",Русский экстрим HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9042/index.m3u8
+#EXTINF:0 tvg-rec="0",Конный мир HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9055/index.m3u8
+#EXTINF:0 tvg-rec="0",СТАРТ HD orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9083/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta HD KZ orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9094/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! СТРАНА orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9157/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Планета orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9158/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Боец orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9159/index.m3u8
+#EXTINF:0 tvg-rec="0",Extreme Sports orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9160/index.m3u8
+#EXTINF:0 tvg-rec="0",M-1 Global TV orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9161/index.m3u8
+#EXTINF:0 tvg-rec="0",Бокс ТВ orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9162/index.m3u8
+#EXTINF:0 tvg-rec="0",Драйв orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9163/index.m3u8
+#EXTINF:0 tvg-rec="0",ЖИВИ! orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9164/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ ПРЕМЬЕР orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9246/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9247/index.m3u8
+#EXTINF:0 tvg-rec="0",Моторспорт ТВ orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9248/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Sport orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9249/index.m3u8
+#EXTINF:0 tvg-rec="0",КХЛ ТВ orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9250/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол orig
+#EXTGRP:Спорт
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9251/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС Kids HD
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2001/index.m3u8
+#EXTINF:0 tvg-rec="3",Nickelodeon HD
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/223/index.m3u8
+#EXTINF:0 tvg-rec="3",Cartoon Network HD
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2011/index.m3u8
+#EXTINF:0 tvg-rec="3",Tiji TV
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/108/index.m3u8
+#EXTINF:0 tvg-rec="3",Gulli
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/109/index.m3u8
+#EXTINF:0 tvg-rec="3",Nick Jr
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/114/index.m3u8
+#EXTINF:0 tvg-rec="3",Nickelodeon
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/541/index.m3u8
+#EXTINF:0 tvg-rec="3",Disney
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/524/index.m3u8
+#EXTINF:0 tvg-rec="3",Детский мир
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/543/index.m3u8
+#EXTINF:0 tvg-rec="3",Jim Jam
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/138/index.m3u8
+#EXTINF:0 tvg-rec="3",Cartoon Network
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/143/index.m3u8
+#EXTINF:0 tvg-rec="3",Карусель
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/156/index.m3u8
+#EXTINF:0 tvg-rec="3",Ani
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/129/index.m3u8
+#EXTINF:0 tvg-rec="3",Мульт
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/909/index.m3u8
+#EXTINF:0 tvg-rec="3",Тлум HD
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/240/index.m3u8
+#EXTINF:0 tvg-rec="3",Boomerang
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/723/index.m3u8
+#EXTINF:0 tvg-rec="3",О!
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/727/index.m3u8
+#EXTINF:0 tvg-rec="3",Детский
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/730/index.m3u8
+#EXTINF:0 tvg-rec="3",В гостях у сказки
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/737/index.m3u8
+#EXTINF:0 tvg-rec="3",Карусель (+3)
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/740/index.m3u8
+#EXTINF:0 tvg-rec="3",Мультимузыка
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/749/index.m3u8
+#EXTINF:0 tvg-rec="0",Duck TV
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1031/index.m3u8
+#EXTINF:0 tvg-rec="3",Baby TV
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2084/index.m3u8
+#EXTINF:0 tvg-rec="0",Da Vinci Kids
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1033/index.m3u8
+#EXTINF:0 tvg-rec="0",Da Vinci Kids PL
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1034/index.m3u8
+#EXTINF:0 tvg-rec="0",Малыш
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1041/index.m3u8
+#EXTINF:0 tvg-rec="0",Nickelodeon EN
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1069/index.m3u8
+#EXTINF:0 tvg-rec="3",Радость моя
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/853/index.m3u8
+#EXTINF:0 tvg-rec="1",Рыжий
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2052/index.m3u8
+#EXTINF:0 tvg-rec="3",Капитан Фантастика
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2098/index.m3u8
+#EXTINF:0 tvg-rec="3",UTv
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2103/index.m3u8
+#EXTINF:0 tvg-rec="3",Тамыр
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2109/index.m3u8
+#EXTINF:0 tvg-rec="3",Смайлик ТВ
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2157/index.m3u8
+#EXTINF:0 tvg-rec="3",Мультиландия
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5055/index.m3u8
+#EXTINF:0 tvg-rec="3",Уникум
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5056/index.m3u8
+#EXTINF:0 tvg-rec="3",Мультик HD
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/921/index.m3u8
+#EXTINF:0 tvg-rec="0",Nickelodeon HD orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9015/index.m3u8
+#EXTINF:0 tvg-rec="0",TLUM HD orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9037/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoon Network HD orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9074/index.m3u8
+#EXTINF:0 tvg-rec="0",Детский HD orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9077/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС Kids HD orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9063/index.m3u8
+#EXTINF:0 tvg-rec="0",Tiji Tv orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9180/index.m3u8
+#EXTINF:0 tvg-rec="0",Gulli orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9181/index.m3u8
+#EXTINF:0 tvg-rec="0",Nick Jr orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9182/index.m3u8
+#EXTINF:0 tvg-rec="0",Disney orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9183/index.m3u8
+#EXTINF:0 tvg-rec="0",Детский мир orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9184/index.m3u8
+#EXTINF:0 tvg-rec="0",Jim jam orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9185/index.m3u8
+#EXTINF:0 tvg-rec="0",Карусель orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9186/index.m3u8
+#EXTINF:0 tvg-rec="0",Ani orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9187/index.m3u8
+#EXTINF:0 tvg-rec="0",Мульт orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9188/index.m3u8
+#EXTINF:0 tvg-rec="0",Boomerang orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9189/index.m3u8
+#EXTINF:0 tvg-rec="0",О! orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9190/index.m3u8
+#EXTINF:0 tvg-rec="0",Детский orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9191/index.m3u8
+#EXTINF:0 tvg-rec="0",Baby tv orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9192/index.m3u8
+#EXTINF:0 tvg-rec="0",Малыш orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9193/index.m3u8
+#EXTINF:0 tvg-rec="0",Радость моя orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9194/index.m3u8
+#EXTINF:0 tvg-rec="0",Рыжий orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9195/index.m3u8
+#EXTINF:0 tvg-rec="0",Капитан фантастика orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9196/index.m3u8
+#EXTINF:0 tvg-rec="0",UTv orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9197/index.m3u8
+#EXTINF:0 tvg-rec="0",Тамыр orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9198/index.m3u8
+#EXTINF:0 tvg-rec="0",Смайлик ТВ orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9199/index.m3u8
+#EXTINF:0 tvg-rec="0",Мультиландия orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9200/index.m3u8
+#EXTINF:0 tvg-rec="0",Nickelodeon orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9260/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoon Network orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9261/index.m3u8
+#EXTINF:0 tvg-rec="0",Мультимузыка orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9262/index.m3u8
+#EXTINF:0 tvg-rec="0",В гостях у сказки orig
+#EXTGRP:Детские
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9263/index.m3u8
+#EXTINF:0 tvg-rec="0",Живая планета orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9325/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНОМЕР orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9293/index.m3u8
+#EXTINF:0 tvg-rec="0",Авто 24 orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9309/index.m3u8
+#EXTINF:0 tvg-rec="0",Поехали orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9318/index.m3u8
+#EXTINF:0 tvg-rec="0",Наша тема orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9286/index.m3u8
+#EXTINF:0 tvg-rec="0",ТДК orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9302/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ Право orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9327/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Nature orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9295/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый образовательный orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9311/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый вегетарианский orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9320/index.m3u8
+#EXTINF:0 tvg-rec="0",Мама orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9288/index.m3u8
+#EXTINF:0 tvg-rec="0",Просвещение orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9304/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир увлечений orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9329/index.m3u8
+#EXTINF:0 tvg-rec="0",Вопросы и ответы orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9297/index.m3u8
+#EXTINF:0 tvg-rec="0",History orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9313/index.m3u8
+#EXTINF:0 tvg-rec="0",Investigation Discovery orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9322/index.m3u8
+#EXTINF:0 tvg-rec="0",Твой дом orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9290/index.m3u8
+#EXTINF:0 tvg-rec="0",Мужской orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9306/index.m3u8
+#EXTINF:0 tvg-rec="0",English Club orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9299/index.m3u8
+#EXTINF:0 tvg-rec="0",История orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9315/index.m3u8
+#EXTINF:0 tvg-rec="0",Зоо ТВ orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9324/index.m3u8
+#EXTINF:0 tvg-rec="0",Т24 orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9292/index.m3u8
+#EXTINF:0 tvg-rec="0",Здоровье orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9308/index.m3u8
+#EXTINF:0 tvg-rec="0",Travel+Adventure orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9301/index.m3u8
+#EXTINF:0 tvg-rec="0",Galaxy orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9317/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Science HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9326/index.m3u8
+#EXTINF:0 tvg-rec="0",Доктор orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9294/index.m3u8
+#EXTINF:0 tvg-rec="0",Outdoor Channel orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9310/index.m3u8
+#EXTINF:0 tvg-rec="0",Загородная жизнь orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9319/index.m3u8
+#EXTINF:0 tvg-rec="0",World Fashion Channel orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9287/index.m3u8
+#EXTINF:0 tvg-rec="0",365 дней orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9303/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ Стиль orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9328/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашние животные orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9296/index.m3u8
+#EXTINF:0 tvg-rec="0",Ocean TV orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9312/index.m3u8
+#EXTINF:0 tvg-rec="0",Нано ТВ orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9321/index.m3u8
+#EXTINF:0 tvg-rec="3",Home 4K
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/4002/index.m3u8
+#EXTINF:0 tvg-rec="0",CBS Reality orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9289/index.m3u8
+#EXTINF:0 tvg-rec="0",Совершенно секретно orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9305/index.m3u8
+#EXTINF:0 tvg-rec="0",Наша сибирь HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9330/index.m3u8
+#EXTINF:0 tvg-rec="0",Время orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9298/index.m3u8
+#EXTINF:0 tvg-rec="0",Travel Channel orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9314/index.m3u8
+#EXTINF:0 tvg-rec="0",Оружие orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9323/index.m3u8
+#EXTINF:0 tvg-rec="0",Связист ТВ orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9291/index.m3u8
+#EXTINF:0 tvg-rec="0",Телепутешествия orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9307/index.m3u8
+#EXTINF:0 tvg-rec="0",Моя планета orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9300/index.m3u8
+#EXTINF:0 tvg-rec="0",Тайна orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9316/index.m3u8
+#EXTINF:0 tvg-rec="3",Insight UHD 4K
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5000/index.m3u8
+#EXTINF:0 tvg-rec="3",Love Nature 4K
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5001/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша Сибирь 4K
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/4003/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Science HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6001/index.m3u8
+#EXTINF:0 tvg-rec="3",National Geographic FHD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2416/index.m3u8
+#EXTINF:0 tvg-rec="3",National Geographic HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/230/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat History HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6002/index.m3u8
+#EXTINF:0 tvg-rec="3",nat geographic
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/134/index.m3u8
+#EXTINF:0 tvg-rec="3",TLC HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/232/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel Channel HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/233/index.m3u8
+#EXTINF:0 tvg-rec="3",History HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/231/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Nature/History HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/203/index.m3u8
+#EXTINF:0 tvg-rec="3",H2 HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2033/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Channel HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/227/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Channel
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/140/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery HD Showcase
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2058/index.m3u8
+#EXTINF:0 tvg-rec="3",RTG HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/210/index.m3u8
+#EXTINF:0 tvg-rec="3",Nat Geo Wild FHD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2415/index.m3u8
+#EXTINF:0 tvg-rec="3",Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/216/index.m3u8
+#EXTINF:0 tvg-rec="3",Nat Geo Wild
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/133/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Science
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/136/index.m3u8
+#EXTINF:0 tvg-rec="3",Animal Planet HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/218/index.m3u8
+#EXTINF:0 tvg-rec="3",Animal Planet
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/137/index.m3u8
+#EXTINF:0 tvg-rec="3",Охотник и рыболов HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/917/index.m3u8
+#EXTINF:0 tvg-rec="3",ЕДА Премиум FHD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2418/index.m3u8
+#EXTINF:0 tvg-rec="3",ЕДА Премиум
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/918/index.m3u8
+#EXTINF:0 tvg-rec="3",Food Network FHD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2419/index.m3u8
+#EXTINF:0 tvg-rec="0",Travel HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1043/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая природа HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2074/index.m3u8
+#EXTINF:0 tvg-rec="3",В мире животных HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2089/index.m3u8
+#EXTINF:0 tvg-rec="3",Планета HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2090/index.m3u8
+#EXTINF:0 tvg-rec="3",Приключения HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/920/index.m3u8
+#EXTINF:0 tvg-rec="1",Глазами туриста HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2104/index.m3u8
+#EXTINF:0 tvg-rec="3",Большая Азия HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2009/index.m3u8
+#EXTINF:0 tvg-rec="0",DocuBox HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/968/index.m3u8
+#EXTINF:0 tvg-rec="3",Дикая охота HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2004/index.m3u8
+#EXTINF:0 tvg-rec="3",Дикая рыбалка HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2005/index.m3u8
+#EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2394/index.m3u8
+#EXTINF:0 tvg-rec="3",Fine living HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2027/index.m3u8
+#EXTINF:0 tvg-rec="3",Fine Living
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/735/index.m3u8
+#EXTINF:0 tvg-rec="3",Загородный int HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2124/index.m3u8
+#EXTINF:0 tvg-rec="3",ID Xtra HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2102/index.m3u8
+#EXTINF:0 tvg-rec="3",Авто Плюс
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/151/index.m3u8
+#EXTINF:0 tvg-rec="3",Кухня ТВ
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/152/index.m3u8
+#EXTINF:0 tvg-rec="3",Нано ТВ HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2135/index.m3u8
+#EXTINF:0 tvg-rec="3",Время
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/552/index.m3u8
+#EXTINF:0 tvg-rec="3",Домашние Животные
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/158/index.m3u8
+#EXTINF:0 tvg-rec="3",Точка отрыва
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/159/index.m3u8
+#EXTINF:0 tvg-rec="3",Надежда
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2153/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Nature
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/161/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat History
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/162/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Explore
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/163/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel Channel
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/130/index.m3u8
+#EXTINF:0 tvg-rec="3",Наука HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2155/index.m3u8
+#EXTINF:0 tvg-rec="3",Galaxy HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5045/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый образовательный
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/701/index.m3u8
+#EXTINF:0 tvg-rec="3",OCEAN-TV
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/703/index.m3u8
+#EXTINF:0 tvg-rec="3",Бобёр
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/725/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоопарк
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/731/index.m3u8
+#EXTINF:0 tvg-rec="3",E
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/736/index.m3u8
+#EXTINF:0 tvg-rec="3",Морской
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/742/index.m3u8
+#EXTINF:0 tvg-rec="3",Телекафе
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/865/index.m3u8
+#EXTINF:0 tvg-rec="3",Усадьба
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/532/index.m3u8
+#EXTINF:0 tvg-rec="0",English Club TV
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/993/index.m3u8
+#EXTINF:0 tvg-rec="0",H2
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1052/index.m3u8
+#EXTINF:0 tvg-rec="0",Travel TV
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1044/index.m3u8
+#EXTINF:0 tvg-rec="0",Classical Harmony
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1037/index.m3u8
+#EXTINF:0 tvg-rec="0",Travel Channel EN
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1070/index.m3u8
+#EXTINF:0 tvg-rec="3",History Russia
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/837/index.m3u8
+#EXTINF:0 tvg-rec="3",RTG TV
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/841/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый Метео
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/845/index.m3u8
+#EXTINF:0 tvg-rec="3",Дикий
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/847/index.m3u8
+#EXTINF:0 tvg-rec="3",Spike Russia
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/849/index.m3u8
+#EXTINF:0 tvg-rec="3",travel+adventure
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/850/index.m3u8
+#EXTINF:0 tvg-rec="3",Поехали!
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/135/index.m3u8
+#EXTINF:0 tvg-rec="3",Galaxy
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2010/index.m3u8
+#EXTINF:0 tvg-rec="3",Охота и рыбалка
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2019/index.m3u8
+#EXTINF:0 tvg-rec="3",ЕГЭ ТВ
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2020/index.m3u8
+#EXTINF:0 tvg-rec="3",HD Media
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2037/index.m3u8
+#EXTINF:0 tvg-rec="3",365 дней ТВ
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2040/index.m3u8
+#EXTINF:0 tvg-rec="3",Телепутешествия
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2051/index.m3u8
+#EXTINF:0 tvg-rec="3",Здоровье
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2054/index.m3u8
+#EXTINF:0 tvg-rec="3",ТАЙНА
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2059/index.m3u8
+#EXTINF:0 tvg-rec="3",Нано ТВ
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2081/index.m3u8
+#EXTINF:0 tvg-rec="3",Investigation Discovery
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2085/index.m3u8
+#EXTINF:0 tvg-rec="3",Оружие
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2087/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоо ТВ
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2100/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая Планета
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2101/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша тема
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2118/index.m3u8
+#EXTINF:0 tvg-rec="3",Пёс и Ко
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2123/index.m3u8
+#EXTINF:0 tvg-rec="3",Sea TV
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5036/index.m3u8
+#EXTINF:0 tvg-rec="3",Домашние животные
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5046/index.m3u8
+#EXTINF:0 tvg-rec="0",Fashion One
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1010/index.m3u8
+#EXTINF:0 tvg-rec="0",World Fashion Channel
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1068/index.m3u8
+#EXTINF:0 tvg-rec="3",Мужской
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2047/index.m3u8
+#EXTINF:0 tvg-rec="3",Телеканал Да Винчи
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/537/index.m3u8
+#EXTINF:0 tvg-rec="3",Мама
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/704/index.m3u8
+#EXTINF:0 tvg-rec="3",CBS Reality
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/706/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ Стиль
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/745/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ Право
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/743/index.m3u8
+#EXTINF:0 tvg-rec="0",Kabbala TV
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1053/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый Вегетарианский
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/833/index.m3u8
+#EXTINF:0 tvg-rec="3",Загородная Жизнь
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/852/index.m3u8
+#EXTINF:0 tvg-rec="3",Просвещение
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/846/index.m3u8
+#EXTINF:0 tvg-rec="3",Твой дом
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/864/index.m3u8
+#EXTINF:0 tvg-rec="3",ТДК
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2034/index.m3u8
+#EXTINF:0 tvg-rec="3",Связист ТВ
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2111/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир Увлечений
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2112/index.m3u8
+#EXTINF:0 tvg-rec="3",Т 24
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5047/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНОМЕР
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2149/index.m3u8
+#EXTINF:0 tvg-rec="3",Калейдоскоп ТВ
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5037/index.m3u8
+#EXTINF:0 tvg-rec="3",История
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/111/index.m3u8
+#EXTINF:0 tvg-rec="3",Моя Планета
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/117/index.m3u8
+#EXTINF:0 tvg-rec="3",Outdoor Channel
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/119/index.m3u8
+#EXTINF:0 tvg-rec="3",Вопросы и ответы
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2026/index.m3u8
+#EXTINF:0 tvg-rec="3",Совершенно секретно
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/121/index.m3u8
+#EXTINF:0 tvg-rec="3",Доктор
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/512/index.m3u8
+#EXTINF:0 tvg-rec="3",Авто 24
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/538/index.m3u8
+#EXTINF:0 tvg-rec="0",Теледом
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/954/index.m3u8
+#EXTINF:0 tvg-rec="0",ЕГЭ ТВ
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6301/index.m3u8
+#EXTINF:0 tvg-rec="0",Авто Плюс HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6369/index.m3u8
+#EXTINF:0 tvg-rec="0",Апостроф TV
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6373/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Explore HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6381/index.m3u8
+#EXTINF:0 tvg-rec="0",Museum HD
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6390/index.m3u8
+#EXTINF:0 tvg-rec="0",HGTV HD RU
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6391/index.m3u8
+#EXTINF:0 tvg-rec="0",Приключения HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9007/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9011/index.m3u8
+#EXTINF:0 tvg-rec="0",H2 HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9013/index.m3u8
+#EXTINF:0 tvg-rec="0",Animal Planet HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9016/index.m3u8
+#EXTINF:0 tvg-rec="0",Travel+Adventure HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9019/index.m3u8
+#EXTINF:0 tvg-rec="0",RTG HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9021/index.m3u8
+#EXTINF:0 tvg-rec="0",TLC HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9024/index.m3u8
+#EXTINF:0 tvg-rec="0",Travel Channel HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9025/index.m3u8
+#EXTINF:0 tvg-rec="0",HD media orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9026/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Nature/History HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9027/index.m3u8
+#EXTINF:0 tvg-rec="0",Теледом HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9030/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery HD Showcase orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9034/index.m3u8
+#EXTINF:0 tvg-rec="0",Живая природа HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9039/index.m3u8
+#EXTINF:0 tvg-rec="0",Охотник и Рыболов HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9043/index.m3u8
+#EXTINF:0 tvg-rec="0",В мире животных HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9048/index.m3u8
+#EXTINF:0 tvg-rec="0",Планета HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9050/index.m3u8
+#EXTINF:0 tvg-rec="0",ID Xtra HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9054/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat History HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9060/index.m3u8
+#EXTINF:0 tvg-rec="0",Глазами туриста HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9061/index.m3u8
+#EXTINF:0 tvg-rec="0",Трофей HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9076/index.m3u8
+#EXTINF:0 tvg-rec="0",Дикая охота HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9081/index.m3u8
+#EXTINF:0 tvg-rec="0",Дикая рыбалка HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9082/index.m3u8
+#EXTINF:0 tvg-rec="0",Наука HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9084/index.m3u8
+#EXTINF:0 tvg-rec="0",History HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9023/index.m3u8
+#EXTINF:0 tvg-rec="0",Nat Geo Wild orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9264/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Explore HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9075/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Science orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9265/index.m3u8
+#EXTINF:0 tvg-rec="0",Animal Planet orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9266/index.m3u8
+#EXTINF:0 tvg-rec="0",Большая Азия HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9267/index.m3u8
+#EXTINF:0 tvg-rec="0",Загородный int HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9268/index.m3u8
+#EXTINF:0 tvg-rec="0",Авто Плюс orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9269/index.m3u8
+#EXTINF:0 tvg-rec="0",Кухня ТВ orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9270/index.m3u8
+#EXTINF:0 tvg-rec="0",Нано ТВ HD orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9271/index.m3u8
+#EXTINF:0 tvg-rec="0",Точка отрыва orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9272/index.m3u8
+#EXTINF:0 tvg-rec="0",Надежда orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9273/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat History orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9274/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Explore orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9275/index.m3u8
+#EXTINF:0 tvg-rec="0",Зоопарк orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9276/index.m3u8
+#EXTINF:0 tvg-rec="0",Морской orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9277/index.m3u8
+#EXTINF:0 tvg-rec="0",Телекафе orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9278/index.m3u8
+#EXTINF:0 tvg-rec="0",Усадьба orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9279/index.m3u8
+#EXTINF:0 tvg-rec="0",RTG TV orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9280/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый Метео orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9281/index.m3u8
+#EXTINF:0 tvg-rec="0",Дикий orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9282/index.m3u8
+#EXTINF:0 tvg-rec="0",Spike Russia orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9283/index.m3u8
+#EXTINF:0 tvg-rec="0",Охота и рыбалка orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9284/index.m3u8
+#EXTINF:0 tvg-rec="0",ЕГЭ ТВ orig
+#EXTGRP:Познавательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9285/index.m3u8
+#EXTINF:0 tvg-rec="0",Paramount Comedy HD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6000/index.m3u8
+#EXTINF:0 tvg-rec="3",MyZen TV 4K
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5002/index.m3u8
+#EXTINF:0 tvg-rec="3",FTV UHD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/4005/index.m3u8
+#EXTINF:0 tvg-rec="3",HD Life
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/226/index.m3u8
+#EXTINF:0 tvg-rec="3",Эврика HD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/908/index.m3u8
+#EXTINF:0 tvg-rec="3",DTX HD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2006/index.m3u8
+#EXTINF:0 tvg-rec="3",DTX HD orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5064/index.m3u8
+#EXTINF:0 tvg-rec="3",Fashion TV FHD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2411/index.m3u8
+#EXTINF:0 tvg-rec="3",Fashion TV HD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2045/index.m3u8
+#EXTINF:0 tvg-rec="3",Fashion One FHD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2412/index.m3u8
+#EXTINF:0 tvg-rec="3",Fashion One HD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2044/index.m3u8
+#EXTINF:0 tvg-rec="3",Арсенал HD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5044/index.m3u8
+#EXTINF:0 tvg-rec="3",Анекдот ТВ
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5034/index.m3u8
+#EXTINF:0 tvg-rec="3",Театр
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2431/index.m3u8
+#EXTINF:0 tvg-rec="3",Luxury World
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2072/index.m3u8
+#EXTINF:0 tvg-rec="3",Luxury
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/5032/index.m3u8
+#EXTINF:0 tvg-rec="3",Продвижение
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/851/index.m3u8
+#EXTINF:0 tvg-rec="3",ACB TV
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/868/index.m3u8
+#EXTINF:0 tvg-rec="3",Globalstar TV
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2035/index.m3u8
+#EXTINF:0 tvg-rec="3",Раз ТВ
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2069/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +2
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6020/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС HD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6303/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ4 HD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6370/index.m3u8
+#EXTINF:0 tvg-rec="0",Spike HD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6371/index.m3u8
+#EXTINF:0 tvg-rec="0",Театр HD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/6385/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал суда HD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/7141/index.m3u8
+#EXTINF:0 tvg-rec="0",Gags Network HD
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/7142/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС HD orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9000/index.m3u8
+#EXTINF:0 tvg-rec="0",HD Life orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9008/index.m3u8
+#EXTINF:0 tvg-rec="0",LUXURY WORLD HD orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9038/index.m3u8
+#EXTINF:0 tvg-rec="0",Эврика HD orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9049/index.m3u8
+#EXTINF:0 tvg-rec="0",Paramount Comedy HD orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9052/index.m3u8
+#EXTINF:0 tvg-rec="0",Продвижение orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9331/index.m3u8
+#EXTINF:0 tvg-rec="0",ACB TV orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9332/index.m3u8
+#EXTINF:0 tvg-rec="0",Раз ТВ orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9333/index.m3u8
+#EXTINF:0 tvg-rec="0",Globalstar TV orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9334/index.m3u8
+#EXTINF:0 tvg-rec="0",Fashion TV orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9335/index.m3u8
+#EXTINF:0 tvg-rec="0",Арсенал orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9336/index.m3u8
+#EXTINF:0 tvg-rec="0",Театр orig
+#EXTGRP:Развлекательные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9337/index.m3u8
+#EXTINF:0 tvg-rec="3",Санкт-Петербург
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/715/index.m3u8
+#EXTINF:0 tvg-rec="3",Хамдан
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2066/index.m3u8
+#EXTINF:0 tvg-rec="3",КРЫМ 24
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2143/index.m3u8
+#EXTINF:0 tvg-rec="3",Эхо ТВ
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2151/index.m3u8
+#EXTINF:0 tvg-rec="3",Волга
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2113/index.m3u8
+#EXTINF:0 tvg-rec="3",Губерния 33 HD
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2400/index.m3u8
+#EXTINF:0 tvg-rec="0",Астрахань 24
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1059/index.m3u8
+#EXTINF:0 tvg-rec="3",Липецк Time
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2435/index.m3u8
+#EXTINF:0 tvg-rec="3",Юрган
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2036/index.m3u8
+#EXTINF:0 tvg-rec="3",Грозный
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/855/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНВ-Планета
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/515/index.m3u8
+#EXTINF:0 tvg-rec="3",ТОЛК
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2140/index.m3u8
+#EXTINF:0 tvg-rec="3",Москва Доверие
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/869/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый Крымский
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2139/index.m3u8
+#EXTINF:0 tvg-rec="3",БСТ HD
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2115/index.m3u8
+#EXTINF:0 tvg-rec="0",Архыз 24
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/1049/index.m3u8
+#EXTINF:0 tvg-rec="3",Сочи HD
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2433/index.m3u8
+#EXTINF:0 tvg-rec="3",Башкирское спутниковое телевидение
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/832/index.m3u8
+#EXTINF:0 tvg-rec="3",Ратник
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/2119/index.m3u8
+#EXTINF:0 tvg-rec="0",КРЫМ 24 orig
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9338/index.m3u8
+#EXTINF:0 tvg-rec="0",Сочи HD orig
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9040/index.m3u8
+#EXTINF:0 tvg-rec="0",Эхо ТВ orig
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9339/index.m3u8
+#EXTINF:0 tvg-rec="0",Волга orig
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9340/index.m3u8
+#EXTINF:0 tvg-rec="0",БСТ HD orig
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9341/index.m3u8
+#EXTINF:0 tvg-rec="0",Москва-доверие orig
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9342/index.m3u8
+#EXTINF:0 tvg-rec="0",БСТ orig
+#EXTGRP:Региональные
+http://korbina.ottolok.net/iptv/4VKUVZ3G5WXX3N/9343/index.m3u8
